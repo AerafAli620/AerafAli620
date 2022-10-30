@@ -31,6 +31,10 @@ My specialties include quick learning new skills, programming languages and prob
 <br/>  
 <br/>  
 <br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 
 ### My Skill Set.  
 <div align="center">  
