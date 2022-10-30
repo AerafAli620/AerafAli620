@@ -50,5 +50,5 @@ My specialties include quick learning new skills, programming languages and prob
 </td><td valign="top" width="33%">
 </td><td valign="top" width="33%">
 </td></tr></table>  
-<br/>  <br/>  <br/>  <br/>  
+<br/>  <br/>
 
