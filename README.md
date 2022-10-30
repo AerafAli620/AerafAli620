@@ -27,7 +27,7 @@ My specialties include quick learning new skills, programming languages and prob
 
 <img src="https://github-readme-stats.vercel.app/api?username=AerafAli620&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-
+<br/>  
 
 ### My Skill Set.  
 <div align="center">  
