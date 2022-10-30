@@ -8,3 +8,5 @@ I am a Web Pen Tester, Web & Software Developer. I enjoy using my skills to cont
 My specialties include quick learning new skills, programming languages and problem solving. So far, I have Python, C++, HTML, CSS, PHP, MySQL and WordPress under my belt. I'm still enthusiastically grabbing onto other programming languages, frameworks and principles that I can integrate into coding web in my head.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AerafAli620)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jWcelvuA21bkRy83WtlX9IFEAyRawUsHrg&usqp=CAU)  
