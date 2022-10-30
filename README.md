@@ -9,7 +9,5 @@ My specialties include quick learning new skills, programming languages and prob
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AerafAli620)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jWcelvuA21bkRy83WtlX9IFEAyRawUsHrg&usqp=CAU) 
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.firstcomputerspatna.com/wp-content/uploads/2021/12/C.jpg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jWcelvuA21bkRy83WtlX9IFEAyRawUsHrg&usqp=CAU) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.firstcomputerspatna.com/wp-content/uploads/2021/12/C++.jpg)  
 
